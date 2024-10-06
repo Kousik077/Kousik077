@@ -1,20 +1,95 @@
-<h1 align="center">Hi 👋, I'm Kousik B</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - GitHub Profile</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #4caf50;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #e7f3fe;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+        }
+        button {
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 15px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
 
-- 🔭 I’m currently working on **Designing a e-commerce website**
+<header>
+    <h1>Your Name</h1>
+    <p>Web Developer | Data Analyst</p>
+</header>
 
-- 🌱 I’m currently learning **React js,data science**
+<div class="container">
+    <h2>About Me</h2>
+    <p>I'm a web developer and data analyst passionate about building interactive web applications and deriving insights from data. I have a strong foundation in HTML, CSS, JavaScript, ReactJS, SQL, Java, Python, and Power BI.</p>
 
-- 🤝 I’m looking for help with **Web development-Backend**
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript, ReactJS</li>
+        <li>SQL, Python, Power BI</li>
+        <li>Java, C Programming</li>
+    </ul>
 
-- 💬 Ask me about **HTML,css,javascript**
+    <h2>Projects</h2>
+    <ul>
+        <li>
+            <a href="https://github.com/yourusername/project1" target="_blank">Project 1</a>
+            <span>A brief description of what this project does.</span>
+        </li>
+        <li>
+            <a href="https://github.com/yourusername/project2" target="_blank">Project 2</a>
+            <span>A brief description of what this project does.</span>
+        </li>
+    </ul>
 
-- 📫 How to reach me **Kousik1507@gmail.com**
+    <h2>Contact</h2>
+    <p>If you'd like to reach out, feel free to connect with me on <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>.</p>
+    <button onclick="window.location.href='mailto:youremail@example.com'">Email Me</button>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+</body>
+</html>
