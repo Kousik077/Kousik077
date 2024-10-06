@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - GitHub Profile</title>
+    <title>kousik077</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
@@ -59,7 +59,7 @@
 <body>
 
 <header>
-    <h1>Your Name</h1>
+    <h1>Kousik B</h1>
     <p>Web Developer | Data Analyst</p>
 </header>
 
