@@ -23,4 +23,4 @@ Student @ St.Joseph's college of engineering
 ![kousik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kousik077&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kousik1507?theme=dark&font=Farro&ext=activity)](https://leetcode.com/u/kousik1507/)
-[![Kousik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kousik077&bg_color=000000&color=d9cafe&line=96d35f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kousik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kousik077&bg_color=000000&color=d9cafe&line=96d35f&point=ffffff&area=true&hide_border=true)]
